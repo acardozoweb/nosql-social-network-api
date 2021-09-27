@@ -20,7 +20,8 @@ This was a challenge assignment, as part of a full-stack web development boot ca
 # Installation
 
 To install the program, feel free to clone or fork this to your own repository.
-To install the packagesm, run the following in your command line:
+
+To install the packages, run the following in your command line:
 npm install
 
 
